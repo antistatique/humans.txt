@@ -23,7 +23,7 @@
   Frontend developer: Yann Gouffon
   Twitter: @Yago_0
   Github: yago
-  From: Sugiez, Vully, Switzerland
+  From: Lausanne, Switzerland
 
   Project manager : Saniha Ozem
   Twitter: @SanihaSaniho
@@ -63,7 +63,7 @@
   From: Lausanne, Switzerland
 
   Visual Designer trainee : Romain Gouffon
-  From: Sugiez, Vully, Switzerland
+  From: Sugiez, Switzerland
 
 /* THANKS */
   Name: Firstname Lastname or URL
