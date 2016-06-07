@@ -1,0 +1,76 @@
+    _          _   _     _        _   _                  
+   / \   _ __ | |_(_)___| |_ __ _| |_(_) __ _ _   _  ___ 
+  / _ \ | '_ \| __| / __| __/ _` | __| |/ _` | | | |/ _ \
+ / ___ \| | | | |_| \__ \ || (_| | |_| | (_| | |_| |  __/
+/_/   \_\_| |_|\__|_|___/\__\__,_|\__|_|\__, |\__,_|\___|
+                                           |_|           
+
+/* TEAM */
+  Digital Strategist : Alberto Gomez
+  Twitter: @kidvaldez
+  From: Lausanne, Switzerland
+
+  Web Software Engineer : Gilles Doge
+  Twitter: @gido
+  Github: gido
+  From: Lausanne, Switzerland
+
+  Software Designer : Marc Friederich
+  Twitter: @zufrieden
+  Github: zufrieden
+  From: Lausanne, Switzerland
+
+  Frontend developer: Yann Gouffon
+  Twitter: @Yago_0
+  Github: yago
+  From: Sugiez, Vully, Switzerland
+
+  Project manager : Saniha Ozem
+  Twitter: @SanihaSaniho
+  From: Lausanne, Switzerland
+
+  Artistic director : Guillaume Berry
+  Twitter: @guillaumeberry
+  From: Lausanne, Switzerland - Lyon, France
+
+  Visual Designer : Sepehr Milani
+  Twitter: @sepmil
+  From: Lausanne, Switzerland
+
+  Frontend developer: Toni Filser
+  Twitter: @tonifisler
+  Github: tonifisler
+  From: Fribourg, Switzerland
+
+  UX Designer : Noémie Sandoz
+  Twitter: @noemiesandoz
+  From: Payerne, Switzerland
+
+  Project manager : Ludovic Renevey
+  Twitter: @ludovicrenevey
+  From: Fribourg, Switzerland
+
+  Visual Designer : Zhiqi Zhu
+  Twitter: @SanihaSaniho
+  From: Lausanne, Switzerland
+
+  Fullstack developer: Kevin Wenger
+  Twitter: @wengerk
+  Github: Sudei
+  From: Fribourg, Switzerland
+
+  Video Maker : Arnaud Mathier
+  From: Lausanne, Switzerland
+
+  Visual Designer trainee : Romain Gouffon
+  From: Sugiez, Vully, Switzerland
+
+/* THANKS */
+  Name: Firstname Lastname or URL
+
+/* SITE */
+  Last update: YYYY/MM/DD
+  Language: lang1 / lang2
+  Standards: HTML5, CSS3,…
+  Components: LIST_OF_MAJORS_COMPONENTS_AND_LIBS
+  Software: Sublime Text 3,…
