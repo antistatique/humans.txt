@@ -51,7 +51,6 @@
   From: Fribourg, Switzerland
 
   Visual Designer : Zhiqi Zhu
-  Twitter: @SanihaSaniho
   From: Lausanne, Switzerland
 
   Fullstack developer: Kevin Wenger
