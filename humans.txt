@@ -34,7 +34,7 @@
   From: Lausanne, Switzerland - Lyon, France
 
   Visual Designer : Sepehr Milani
-  Twitter: @sepmil
+  Twitter: @donsepito
   From: Lausanne, Switzerland
 
   Frontend developer: Toni Filser
