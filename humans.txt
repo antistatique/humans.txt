@@ -20,16 +20,16 @@
   Github: zufrieden
   From: Lausanne, Switzerland
 
-  Frontend developer: Yann Gouffon
+  Frontend Developer: Yann Gouffon
   Twitter: @Yago_0
   Github: yago
   From: Lausanne, Switzerland
 
-  Project manager : Saniha Ozem
+  Project Manager : Saniha Ozem
   Twitter: @SanihaSaniho
   From: Lausanne, Switzerland
 
-  Artistic director : Guillaume Berry
+  Artistic Director : Guillaume Berry
   Twitter: @guillaumeberry
   From: Lausanne, Switzerland - Lyon, France
 
@@ -37,7 +37,7 @@
   Twitter: @donsepito
   From: Lausanne, Switzerland
 
-  Frontend developer: Toni Filser
+  Frontend Developer: Toni Filser
   Twitter: @tonifisler
   Github: tonifisler
   From: Fribourg, Switzerland
@@ -46,14 +46,14 @@
   Twitter: @noemiesandoz
   From: Payerne, Switzerland
 
-  Project manager : Ludovic Renevey
+  Project Manager : Ludovic Renevey
   Twitter: @ludovicrenevey
   From: Fribourg, Switzerland
 
   Visual Designer : Zhiqi Zhu
   From: Lausanne, Switzerland
 
-  Fullstack developer: Kevin Wenger
+  Fullstack Developer: Kevin Wenger
   Twitter: @wengerk
   Github: Sudei
   From: Vevey, Switzerland
