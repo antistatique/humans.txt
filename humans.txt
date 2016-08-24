@@ -20,7 +20,7 @@
   Github: zufrieden
   From: Lausanne, Switzerland
 
-  Frontend Developer: Yann Gouffon
+  Lead Frontend Developer: Yann Gouffon
   Twitter: @Yago_0
   Github: yago
   From: Lausanne, Switzerland
@@ -60,9 +60,6 @@
 
   Video Maker : Arnaud Mathier
   From: Lausanne, Switzerland
-
-  Visual Designer trainee : Romain Gouffon
-  From: Sugiez, Switzerland
 
 /* THANKS */
   Name: Firstname Lastname or URL
