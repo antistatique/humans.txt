@@ -55,12 +55,21 @@
 
   Fullstack Developer: Kevin Wenger
   Twitter: @wengerk
-  Github: Sudei
+  Github: wengerk
   From: Vevey, Switzerland
 
   Video Maker : Arnaud Mathier
   From: Lausanne, Switzerland
-
+  
+  Fullstack Developer: Flavien Knuchel
+  Twitter: @flavienknuchel
+  Github: knuch
+  From: Attalens, Switzerland
+  
+  Project Manager: Camille Letang
+  Twitter: @hagaroyh
+  From: Lausanne, Switzerland
+  
 /* THANKS */
   Name: Firstname Lastname or URL
 
