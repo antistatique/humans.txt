@@ -25,10 +25,6 @@
   Github: yago
   From: Lausanne, Switzerland
 
-  Project Manager : Saniha Ozem
-  Twitter: @SanihaSaniho
-  From: Lausanne, Switzerland
-
   Artistic Director : Guillaume Berry
   Twitter: @guillaumeberry
   From: Lausanne, Switzerland - Lyon, France
@@ -50,9 +46,6 @@
   Twitter: @ludovicrenevey
   From: Fribourg, Switzerland
 
-  Visual Designer : Zhiqi Zhu
-  From: Lausanne, Switzerland
-
   Fullstack Developer: Kevin Wenger
   Twitter: @wengerk
   Github: wengerk
@@ -66,7 +59,7 @@
   Github: knuch
   From: Attalens, Switzerland
   
-  Project Manager: Camille Letang
+  Project Manager: Camille Létang
   Twitter: @hagaroyh
   From: Lausanne, Switzerland
   
