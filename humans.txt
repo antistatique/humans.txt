@@ -20,7 +20,7 @@
   Github: zufrieden
   From: Lausanne, Switzerland
 
-  Lead Frontend Developer: Yann Gouffon
+  Lead Web Developer: Yann Gouffon
   Twitter: @Yago_0
   Github: yago
   From: Lausanne, Switzerland
@@ -33,7 +33,7 @@
   Twitter: @donsepito
   From: Lausanne, Switzerland
 
-  Frontend Developer: Toni Filser
+  Web Developer: Toni Filser
   Twitter: @tonifisler
   Github: tonifisler
   From: Fribourg, Switzerland
@@ -46,15 +46,19 @@
   Twitter: @ludovicrenevey
   From: Fribourg, Switzerland
 
-  Fullstack Developer: Kevin Wenger
+  Web Developer: Kevin Wenger
   Twitter: @wengerk
   Github: wengerk
   From: Vevey, Switzerland
 
   Video Maker : Arnaud Mathier
   From: Lausanne, Switzerland
+
+  Web Developer: Julien Minguely
+  Gibhub: jminguely
+  From: Fribourg, Switzerland
   
-  Fullstack Developer: Flavien Knuchel
+  Web Developer: Flavien Knuchel
   Twitter: @flavienknuchel
   Github: knuch
   From: Attalens, Switzerland
