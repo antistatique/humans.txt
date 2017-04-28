@@ -71,8 +71,4 @@
   Name: Firstname Lastname or URL
 
 /* SITE */
-  Last update: YYYY/MM/DD
-  Language: lang1 / lang2
-  Standards: HTML5, CSS3,…
-  Components: LIST_OF_MAJORS_COMPONENTS_AND_LIBS
-  Software: Sublime Text 3,…
+  Built in: Spring 2017
