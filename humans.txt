@@ -71,6 +71,9 @@
   Twitter: @MouleneVince
   Github: vints24
   From: Gex, France
+  
+  Project Manager: Romain de Wolff
+  From: Bern, Switzerland
 
 /* SITE */
   Built in: 2017
