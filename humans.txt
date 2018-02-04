@@ -51,9 +51,6 @@
   Github: wengerk
   From: Vevey, Switzerland
 
-  Video Maker : Arnaud Mathier
-  From: Lausanne, Switzerland
-
   Web Developer: Julien Minguely
   Gibhub: jminguely
   From: Fribourg, Switzerland
@@ -66,6 +63,14 @@
   Project Manager: Camille Létang
   Twitter: @hagaroyh
   From: Lausanne, Switzerland
+
+  Web Developer: Vincent Moulene
+  Twitter: @MouleneVince
+  Github: vints24
+  From: Gex, France
+  
+  Project Manager: Romain de Wolff
+  From: Bern, Switzerland
 
 /* SITE */
   Built in: 2018
