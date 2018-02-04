@@ -63,9 +63,6 @@
   Project Manager: Camille Létang
   Twitter: @hagaroyh
   From: Lausanne, Switzerland
-  
-  Video Maker : Stefano Brito
-  From: Lausanne, Switzerland
 
   Web Developer: Vincent Moulene
   Twitter: @MouleneVince
