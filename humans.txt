@@ -29,11 +29,11 @@
   Twitter: @guillaumeberry
   From: Lausanne, Switzerland - Lyon, France
 
-  Visual Designer : Sepehr Milani
-  Twitter: @donsepito
+  Visual Designer : Pierre Georges
+  Twitter: @pierre__georges
   From: Lausanne, Switzerland
 
-  Web Developer: Toni Filser
+  Web Developer: Toni Fisler
   Twitter: @tonifisler
   Github: tonifisler
   From: Fribourg, Switzerland
@@ -41,10 +41,6 @@
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
   From: Payerne, Switzerland
-
-  Project Manager : Ludovic Renevey
-  Twitter: @ludovicrenevey
-  From: Fribourg, Switzerland
 
   Web Developer: Kevin Wenger
   Twitter: @wengerk
@@ -71,6 +67,11 @@
   
   Project Manager: Romain de Wolff
   From: Bern, Switzerland
+  
+  Project Manager: Arthur Descoeudres
+  Github: 8uhr
+  Twitter: @8_uhr
+  From: Lausanne, Switzerland
 
 /* SITE */
   Built in: 2018
