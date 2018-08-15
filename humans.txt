@@ -6,6 +6,7 @@
                                            |_|           
 
 /* TEAM */
+
   Digital Strategist : Alberto Gomez
   Twitter: @kidvaldez
   From: Lausanne, Switzerland
@@ -65,13 +66,12 @@
   Github: vints24
   From: Gex, France
   
-  Project Manager: Romain de Wolff
-  From: Bern, Switzerland
-  
   Project Manager: Arthur Descoeudres
   Github: 8uhr
   Twitter: @8_uhr
   From: Lausanne, Switzerland
 
+
 /* SITE */
+
   Built in: 2018
