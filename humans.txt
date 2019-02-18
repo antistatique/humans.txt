@@ -70,6 +70,11 @@
   Github: 8uhr
   Twitter: @8_uhr
   From: Lausanne, Switzerland
+  
+  Senior Web Developer: Yann Lugrin
+  Github: YannLugrin
+  Twitter: @YannLugrin
+  From: Lausanne, Switzerland
 
 
 /* SITE */
