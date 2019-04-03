@@ -70,6 +70,10 @@
   Github: 8uhr
   Twitter: @8_uhr
   From: Lausanne, Switzerland
+    
+  Project Manager: Matthieu Harbich
+  Gibhub: @matthieuharbich
+  From: Lausanne, Switzerland
   
   Senior Web Developer: Yann Lugrin
   Github: YannLugrin
@@ -79,4 +83,4 @@
 
 /* SITE */
 
-  Built in: 2018
+  Built in: 2019
