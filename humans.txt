@@ -75,7 +75,10 @@
   Github: YannLugrin
   Twitter: @YannLugrin
   From: Lausanne, Switzerland
-
+    
+  Project Manager: Matthieu Harbich
+  Github: matthieuharbich
+  From: Lausanne, Switzerland
 
 /* SITE */
 
