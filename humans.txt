@@ -63,7 +63,7 @@
 
   Web Developer: Vincent Moulene
   Twitter: @MouleneVince
-  Github: vints24
+  Github: vincentmoulene
   From: Gex, France
   
   Project Manager: Arthur Descoeudres
