@@ -79,6 +79,14 @@
   Project Manager: Matthieu Harbich
   Github: matthieuharbich
   From: Lausanne, Switzerland
+  
+  Web Developer: Franck Da Silva
+  Gibhub: Gurakh
+  From: Lausanne, Switzerland
+  
+  Web Developer: Steven Avelino
+  Gibhub: StevenAvelino24
+  From: Cugy, Vaud, Switzerland
 
 /* SITE */
 
