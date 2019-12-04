@@ -1,9 +1,9 @@
-    _          _   _     _        _   _                  
-   / \   _ __ | |_(_)___| |_ __ _| |_(_) __ _ _   _  ___ 
+    _          _   _     _        _   _
+   / \   _ __ | |_(_)___| |_ __ _| |_(_) __ _ _   _  ___
   / _ \ | '_ \| __| / __| __/ _` | __| |/ _` | | | |/ _ \
  / ___ \| | | | |_| \__ \ || (_| | |_| | (_| | |_| |  __/
 /_/   \_\_| |_|\__|_|___/\__\__,_|\__|_|\__, |\__,_|\___|
-                                           |_|           
+                                           |_|
 
 /* TEAM */
 
@@ -21,11 +21,6 @@
   Github: zufrieden
   From: Lausanne, Switzerland
 
-  Lead Web Developer: Yann Gouffon
-  Twitter: @Yago_0
-  Github: yago
-  From: Lausanne, Switzerland
-
   Artistic Director : Guillaume Berry
   Twitter: @guillaumeberry
   From: Lausanne, Switzerland - Lyon, France
@@ -34,50 +29,65 @@
   Twitter: @pierre__georges
   From: Lausanne, Switzerland
 
-  Web Developer: Toni Fisler
-  Twitter: @tonifisler
-  Github: tonifisler
-  From: Lausanne, Switzerland
-
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
   From: Payerne, Switzerland
 
-  Web Developer: Kevin Wenger
-  Twitter: @wengerk
-  Github: wengerk
-  From: Vevey, Switzerland
-
-  Web Developer: Julien Minguely
-  Gibhub: jminguely
-  From: Fribourg, Switzerland
+  UX Designer : Tiphaine Rosier
+  From: Montmorot, France
   
-  Web Developer: Flavien Knuchel
-  Twitter: @flavienknuchel
-  Github: knuch
-  From: Attalens, Switzerland
-  
-  Project Manager: Camille Létang
-  Twitter: @hagaroyh
+  Lead Web Developer : Yann Gouffon
+  Twitter: @Yago_0
+  Github: yago
   From: Lausanne, Switzerland
 
-  Web Developer: Vincent Moulene
+  Web Developer : Kevin Wenger
+  Twitter: @wengerk
+  Github: wengerk
+  From: Lausanne, Switzerland
+
+  Web Developer : Steven Avelino
+  Twitter: @StevenADev
+  Github: StevenAvelino24
+  From: Lausanne, Switzerland
+
+  Web Developer : Vincent Moulène
   Twitter: @MouleneVince
   Github: vints24
   From: Gex, France
-  
-  Project Manager: Arthur Descoeudres
-  Github: 8uhr
-  Twitter: @8_uhr
-  From: Lausanne, Switzerland
-  
-  Senior Web Developer: Yann Lugrin
+
+  Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
   From: Lausanne, Switzerland
-    
-  Project Manager: Matthieu Harbich
-  Github: matthieuharbich
+
+  Web developer : Franck Da Silva
+  Github: Gurakh
+  From: Lausanne, Switzerland
+
+  Web Developer : Nelson Reitz
+  Github: nelsonreitz
+  Twitter: @nelsreitz
+  From: Lausanne, Switzerland
+
+  Web Developer : Yassine Bakiri
+  Github: kidCubi
+  From: Lausanne, Switzerland
+
+  Project Manager : Arthur Descoeudres
+  Github: 8uhr
+  Twitter: @8_uhr
+  From: Lausanne, Switzerland
+
+  Project Manager : Sedona Theillaud
+  Github: sedonatheillaud
+  From: Lausanne, Switzerland
+
+  Account Manager : Justine Vienne
+  From: L'Étoile, France
+
+  Finance: Laura Rey
+  Github: laura84
   From: Lausanne, Switzerland
 
 /* SITE */
