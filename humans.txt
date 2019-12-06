@@ -53,7 +53,7 @@
 
   Web Developer : Vincent Moulène
   Twitter: @MouleneVince
-  Github: vints24
+  Github: vincentmoulene
   From: Gex, France
 
   Senior Web Developer : Yann Lugrin
