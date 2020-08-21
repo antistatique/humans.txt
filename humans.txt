@@ -51,11 +51,6 @@
   Github: StevenAvelino24
   From: Lausanne, Switzerland
 
-  Web Developer : Vincent Moulène
-  Twitter: @MouleneVince
-  Github: vincentmoulene
-  From: Gex, France
-
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
@@ -89,7 +84,19 @@
   Finance: Laura Rey
   Github: laura84
   From: Lausanne, Switzerland
+  
+  Web Developer: Iris Wolfisberg
+  Github: iwolfisberg
+  From: Avenches, Switzerland
+
+  Web Developer: Karen Tschanz
+  Github: karentschanz0
+  From: Geneva, Switzerland
+  
+  Project Manager: Sacha Tissot
+  github: sachatissot
+  From: France
 
 /* SITE */
 
-  Built in: 2019
+  Built in: 2020
