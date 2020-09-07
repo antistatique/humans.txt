@@ -28,12 +28,17 @@
   Visual Designer : Pierre Georges
   Twitter: @pierre__georges
   From: Lausanne, Switzerland
+  
+  Visual Designe : Yassine Bakiri
+  Github: kidCubi
+  From: Lausanne, Switzerland
 
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
   From: Payerne, Switzerland
 
   UX Designer : Tiphaine Rosier
+  Github: tiphainerosier
   From: Montmorot, France
   
   Lead Web Developer : Yann Gouffon
@@ -51,11 +56,6 @@
   Github: StevenAvelino24
   From: Lausanne, Switzerland
 
-  Web Developer : Vincent Moulène
-  Twitter: @MouleneVince
-  Github: vincentmoulene
-  From: Gex, France
-
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
@@ -69,10 +69,14 @@
   Github: nelsonreitz
   Twitter: @nelsreitz
   From: Lausanne, Switzerland
-
-  Web Developer : Yassine Bakiri
-  Github: kidCubi
+  
+  Web Developer : Iris Wolfisberg
+  Github: iwolfisberg
   From: Lausanne, Switzerland
+
+  Web Developer : Karen Tschanz
+  Github: karentschanz0
+  From: Juriens, Switzerland
 
   Project Manager : Arthur Descoeudres
   Github: 8uhr
@@ -83,6 +87,10 @@
   Github: sedonatheillaud
   From: Lausanne, Switzerland
 
+  Project Manager : Sacha Tissot
+  Github: sachatissot
+  From: Saint-Julien-en-Genevois, France
+
   Account Manager : Justine Vienne
   From: L'Étoile, France
 
@@ -92,4 +100,4 @@
 
 /* SITE */
 
-  Built in: 2019
+  Built in: 2020
