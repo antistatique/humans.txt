@@ -32,6 +32,10 @@
   Visual Designer : Yassine Bakiri
   Github: kidCubi
   From: Lausanne, Switzerland
+  
+  Visual Designer : Emma Giacomelli
+  Github: EmmaGiacomelli
+  From: Nyon, Switzerland
 
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
