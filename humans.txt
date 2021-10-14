@@ -87,10 +87,6 @@
   Twitter: @8_uhr
   From: Lausanne, Switzerland
 
-  Project Manager : Sedona Theillaud
-  Github: sedonatheillaud
-  From: Lausanne, Switzerland
-
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
