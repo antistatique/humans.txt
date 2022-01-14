@@ -85,11 +85,6 @@
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
-  
-  Client Partner : Mélanie Lapipe
-  Github: melanielapipe
-  From: Annemasse, France
-
 
   Finance: Laura Rey
   Github: laura84
