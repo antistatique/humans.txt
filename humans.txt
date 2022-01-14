@@ -55,11 +55,6 @@
   Github: RSickenberg
   From: Morges, Switzerland
 
-  Web Developer : Steven Avelino
-  Twitter: @StevenADev
-  Github: StevenAvelino24
-  From: Lausanne, Switzerland
-
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
