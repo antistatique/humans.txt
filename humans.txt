@@ -77,11 +77,6 @@
   Github: karentschanz0
   From: Juriens, Switzerland
 
-  Project Manager : Arthur Descoeudres
-  Github: 8uhr
-  Twitter: @8_uhr
-  From: Lausanne, Switzerland
-
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
@@ -92,4 +87,4 @@
 
 /* SITE */
 
-  Built in: 2021
+  Built in: 2022
