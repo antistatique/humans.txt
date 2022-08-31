@@ -73,10 +73,6 @@
   Github: iwolfisberg
   From: Lausanne, Switzerland
 
-  Web Developer : Karen Tschanz
-  Github: karentschanz0
-  From: Juriens, Switzerland
-
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
