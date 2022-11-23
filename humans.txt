@@ -31,7 +31,10 @@
   
   Visual Designer : Emma Giacomelli
   Github: EmmaGiacomelli
-  From: Nyon, Switzerland
+  From: Annecy, France
+  
+  Visual Designer : Amparo Sánchez Marqueño
+  From: Vevey, Switzerland
 
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
@@ -80,6 +83,10 @@
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
+  
+  Project Manager : Susana Rodrigues
+  Github: antistatique-susana
+  From: Lausanne, Switzerland
 
   Finance: Laura Rey
   Github: laura84
