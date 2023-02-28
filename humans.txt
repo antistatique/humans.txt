@@ -53,10 +53,6 @@
   Twitter: @wengerk
   Github: wengerk
   From: Lausanne, Switzerland
-  
-  Web Developer : Romain Sickenberg
-  Github: RSickenberg
-  From: Morges, Switzerland
 
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
