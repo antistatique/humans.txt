@@ -21,10 +21,6 @@
   Github: zufrieden
   From: Lausanne, Switzerland
 
-  Artistic Director : Guillaume Berry
-  Twitter: @guillaumeberry
-  From: Lausanne, Switzerland - Lyon, France
-
   Visual Designer : Pierre Georges
   Twitter: @pierre__georges
   From: Lausanne, Switzerland
@@ -53,11 +49,11 @@
   Twitter: @wengerk
   Github: wengerk
   From: Lausanne, Switzerland
-  
+
   Web Developer : Sébastien Graf
   Github: seb-graf
   From: Epalinges, Switzerland
-  
+
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
@@ -90,4 +86,4 @@
 
 /* SITE */
 
-  Built in: 2022
+  Built in: 2023
