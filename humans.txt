@@ -35,10 +35,6 @@
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
   From: Payerne, Switzerland
-
-  UX Designer : Tiphaine Rosier
-  Github: tiphainerosier
-  From: Montmorot, France
   
   Lead Web Developer : Yann Gouffon
   Twitter: @Yago_0
