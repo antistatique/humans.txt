@@ -72,6 +72,10 @@
   Github: iwolfisberg
   From: Lausanne, Switzerland
 
+  Web Developer : Justine Gasche
+  Github: greaby
+  From: Lausanne, Switzerland
+
   Project Manager : Sacha Tissot
   Github: sachatissot
   From: Saint-Julien-en-Genevois, France
