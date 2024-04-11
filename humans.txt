@@ -52,15 +52,6 @@
   Github: Gurakh
   From: Lausanne, Switzerland
 
-  Web Developer : Nelson Reitz
-  Github: nelsonreitz
-  Twitter: @nelsreitz
-  From: Lausanne, Switzerland
-  
-  Web Developer : Iris Wolfisberg
-  Github: iwolfisberg
-  From: Lausanne, Switzerland
-
   Web Developer : Justine Gasche
   Github: greaby
   From: Lausanne, Switzerland
@@ -79,4 +70,4 @@
 
 /* SITE */
 
-  Built in: 2023
+  Built in: 2024
