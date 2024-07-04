@@ -39,10 +39,6 @@
   Github: wengerk
   From: Lausanne, Switzerland
 
-  Web Developer : Sébastien Graf
-  Github: seb-graf
-  From: Epalinges, Switzerland
-
   Senior Web Developer : Yann Lugrin
   Github: YannLugrin
   Twitter: @YannLugrin
@@ -52,22 +48,9 @@
   Github: Gurakh
   From: Lausanne, Switzerland
 
-  Web Developer : Nelson Reitz
-  Github: nelsonreitz
-  Twitter: @nelsreitz
-  From: Lausanne, Switzerland
-  
-  Web Developer : Iris Wolfisberg
-  Github: iwolfisberg
-  From: Lausanne, Switzerland
-
   Web Developer : Justine Gasche
   Github: greaby
   From: Lausanne, Switzerland
-
-  Project Manager : Sacha Tissot
-  Github: sachatissot
-  From: Saint-Julien-en-Genevois, France
   
   Project Manager : Susana Rodrigues
   Github: antistatique-susana
