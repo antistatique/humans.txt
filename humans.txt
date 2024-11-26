@@ -27,7 +27,7 @@
 
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
-  From: Payerne, Switzerland
+  From: Cousset, Switzerland
   
   Lead Web Developer : Yann Gouffon
   Twitter: @Yago_0
@@ -48,12 +48,20 @@
   Github: Gurakh
   From: Lausanne, Switzerland
 
-  Web Developer : Justine Gasche
-  Github: greaby
-  From: Lausanne, Switzerland
+  Web Developer : Antoine Dessauges
+  Github: DessaugesAntoine
+  From: Morges, Switzerland
+
+  Web Developer : Anthony Salamone
+  Github: AnthonySalamone
+  From: Courgevaux, Switzerland
   
-  Project Manager : Susana Rodrigues
+  Project Manager : Susana Jeanmonod
   Github: antistatique-susana
+  From: Perroy, Switzerland
+
+  Project Manager : Angéline Rhodes
+  Github: angie-demat
   From: Lausanne, Switzerland
 
   Finance: Laura Rey
@@ -62,4 +70,4 @@
 
 /* SITE */
 
-  Built in: 2023
+  Built in: 2024
