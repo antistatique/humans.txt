@@ -44,8 +44,8 @@
   Twitter: @YannLugrin
   From: Lausanne, Switzerland
 
-  Web developer : Franck Da Silva
-  Github: Gurakh
+  Web developer : Tiago Pinto Monteiro
+  Github: Deegoh
   From: Lausanne, Switzerland
 
   Web Developer : Antoine Dessauges
