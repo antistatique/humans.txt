@@ -25,6 +25,11 @@
   Twitter: @pierre__georges
   From: Lausanne, Switzerland
 
+  Visual Designer: Vicente Akira
+  Twitter: @vicenteakira
+  Github: @vicenteakira
+  From: Geneva, Switzerland
+
   UX Designer : Noemie Sandoz
   Twitter: @noemiesandoz
   From: Cousset, Switzerland
