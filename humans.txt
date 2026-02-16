@@ -53,10 +53,6 @@
   Github: Deegoh
   From: Lausanne, Switzerland
 
-  Web Developer : Antoine Dessauges
-  Github: DessaugesAntoine
-  From: Morges, Switzerland
-
   Web Developer : Anthony Salamone
   Github: AnthonySalamone
   From: Courgevaux, Switzerland
@@ -75,4 +71,4 @@
 
 /* SITE */
 
-  Built in: 2025
+  Built in: 2026
