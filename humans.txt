@@ -49,10 +49,6 @@
   Twitter: @YannLugrin
   From: Lausanne, Switzerland
 
-  Web developer : Tiago Pinto Monteiro
-  Github: Deegoh
-  From: Lausanne, Switzerland
-
   Web Developer : Anthony Salamone
   Github: AnthonySalamone
   From: Courgevaux, Switzerland
